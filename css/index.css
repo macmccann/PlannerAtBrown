@@ -1,0 +1,39 @@
+html {
+    min-height: 100% !important;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    text-align: center;
+    font-family: 'Filmotype Fashion';
+    background-color: rgb(246, 246, 250);
+}
+
+code {
+    font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+}
+
+a {
+    text-decoration: none;
+    color: #000088;
+}
+
+.main-container {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.main-header {
+    font-family: "Sofia W01 Light1446819","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
